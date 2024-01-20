@@ -3,7 +3,7 @@ package com.tmy.num370;
 import com.tmy.Difference;
 
 /**
- * 区间加法
+ * 区间加法 对某个数组进行的区间进行 加法操作
  *
  * @author kancsd
  * @version 1.0.0
